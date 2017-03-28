@@ -2,7 +2,7 @@
 [![GNU v3 License](https://img.shields.io/badge/license-GNU-yellow.svg?style=flat)](http://choosealicense.com/licenses/gpl-3.0/)
 [![Twitter](https://img.shields.io/badge/twitter-@BatuhanKok-blue.svg?style=flat)](http://twitter.com/BatuhanKok)
 [![Website](https://img.shields.io/badge/website-batuhan.me-lightgrey.svg?style=flat)](http://batuhan.me)
-[![Freelance](https://img.shields.io/badge/hire me-yes!-brightgreen.svg?style=flat)](http://batuhan.me/contact)
+[![Freelance](https://img.shields.io/badge/hire_me-yes!-brightgreen.svg?style=flat)](http://batuhan.me/contact)
 
 
 ## Getting DNS Records and Whois Info in PHP
